@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "张峻巍的个人主页"
+title: "主页"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,6 +12,7 @@ redirect_from:
 个人履历
 ======
 2016.09-2020.06 东北林业大学信息与计算机工程学院 软件工程 本科
+
 2020.09-至今    中国科学院大学(中国科学院国家空间科学中心) 计算机应用技术 硕士研究生在读
 
 
@@ -25,6 +26,9 @@ redirect_from:
 硕士研究生
 ------
 待补充
+
+
+
 
 
 主要科研成果
