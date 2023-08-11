@@ -1,0 +1,20 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Awards"
+    url: /teaching/    
+    
+  - title: "Research"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+
+  - title: "Talks"
+    url: /talks/   
+    
+  - title: "lifes"
+    url: /markdown/
