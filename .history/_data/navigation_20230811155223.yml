@@ -3,18 +3,19 @@ main:
   - title: "Publications"
     url: /publications/
 
+ 
+
   - title: "Awards"
     url: /teaching/    
     
-  - title: "Research"
+  - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-
-  - title: "Talks"
-  url: /talks/   
+  - title: "CV"
+    url: /cv/
     
-  - title: "lifes"
+  - title: "Guide"
     url: /markdown/
