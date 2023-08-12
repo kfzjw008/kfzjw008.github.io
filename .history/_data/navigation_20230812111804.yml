@@ -12,8 +12,8 @@ main:
   - title: 'Talks'
     url: /talks/
 
-  - title: 'project'
-    url: /project/
+      - title: 'Talks'
+    url: /talks/
 
   - title: 'lifes'
     url: /markdown/
