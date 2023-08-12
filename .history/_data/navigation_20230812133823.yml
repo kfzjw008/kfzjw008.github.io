@@ -1,0 +1,19 @@
+# main links links
+main:
+  - title: 'Publications'
+    url: /publications/
+
+  - title: 'Awards'
+    url: /award/
+
+  - title: 'Research'
+    url: /portfolio/
+
+  - title: 'Talks'
+    url: /talks/
+
+  - title: 'project'
+    url: /project/
+
+  - title: 'Lifes'
+    url: /markdown/
