@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: 'en-US'
-title: 'ZhangJunwei HomePage'
+title: 'ZhangJunwei''
 title_separator: '-'
 name: &name '张峻巍'
 description: &description 'personal description'
