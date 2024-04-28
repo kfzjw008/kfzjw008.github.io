@@ -86,7 +86,7 @@ author:
   pubmed:
   googlescholar: 'https://orcid.org/0000-0001-9852-4627'
   email: 'zhangjunwei20@mails.ucas.ac.cn'
-  researchgate: 'https://www.researchgate.net/profile/Junwei-Zhang-20'
+  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
   codepen:
@@ -109,7 +109,7 @@ author:
   tumblr:
   twitter:
   vine:
-  weibo:'https://weibo.com/u/7734564060'
+  weibo:
   xing:
   youtube:
   wikipedia:
